@@ -4,7 +4,7 @@
 This project was completed as part of the University of London’s ST2187 Business Analytics, Applied Modelling and Prediction module coursework.
 
 ### 📁 Objective:
-- To perform a regional profitability analysis for BeatzStore using Tableau.
+- To perform a regional profitability analysis for BeatzStore and communicate findings through Tableau dashboards.
 - Analysis focuses on identifying inefficiencies across sales regions and recommending cost optimisation strategies.
 
 ### 🔍 Key Highlights:
